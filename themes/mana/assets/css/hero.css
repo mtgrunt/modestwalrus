@@ -33,7 +33,7 @@
 }
 
 .hero-title-line1 {
-  font-family: var(--font-heading);
+  font-family: "ROGFonts", var(--font-heading);
   font-size: clamp(2.5rem, 5vw, 4.5rem);
   font-weight: 900;
   color: var(--text-primary);
@@ -41,7 +41,7 @@
 }
 
 .hero-title-line2 {
-  font-family: var(--font-heading);
+  font-family: "ROGFonts", var(--font-heading);
   font-size: clamp(2.5rem, 5vw, 4.5rem);
   font-weight: 900;
   color: transparent;
