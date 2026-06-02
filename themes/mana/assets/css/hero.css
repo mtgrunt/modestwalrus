@@ -53,9 +53,9 @@
 .hero-subtitle {
   font-family: var(--font-mono);
   font-size: clamp(0.875rem, 1.5vw, 1.125rem);
-  color: #fb923c;
+  color: #ff6d00;
   margin: var(--spacing-md) 0 0 0;
-  opacity: 0.8;
+  opacity: 1;
 }
 
 .hero-image {
