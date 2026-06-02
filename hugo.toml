@@ -12,6 +12,11 @@ theme = 'mana'
   weight = 1
 
 [[menus.main]]
+  name = "Gaming"
+  url = "/gaming/"
+  weight = 2
+
+[[menus.main]]
   name = "Music"
   url = "/music/"
-  weight = 2
+  weight = 3
