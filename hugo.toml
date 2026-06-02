@@ -5,3 +5,13 @@ theme = 'mana'
 
 [params.avatar]
   url = '/walrus.png'
+
+[[menus.main]]
+  name = "About"
+  url = "/about/"
+  weight = 1
+
+[[menus.main]]
+  name = "Music"
+  url = "/music/"
+  weight = 2
