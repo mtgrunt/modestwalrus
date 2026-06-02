@@ -65,13 +65,9 @@
 }
 
 .hero-logo {
-  width: 340px;
-  height: 340px;
-  object-fit: cover;
-  border-radius: 50%;
-  background: var(--glass-surface);
-  border: 3px solid var(--glass-border);
-  box-shadow: 0 8px 32px var(--accent-primary-rgba-03);
+  max-width: 100%;
+  height: auto;
+  filter: drop-shadow(0 8px 24px var(--accent-primary-rgba-03));
   animation: float 3s ease-in-out infinite;
 }
 
