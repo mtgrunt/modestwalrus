@@ -17,6 +17,16 @@
   color: var(--text-muted);
   font-size: 0.875rem;
   margin-bottom: var(--spacing-md);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.4rem;
+}
+
+.footer-logo-icon {
+  height: 1.25rem;
+  width: auto;
+  flex-shrink: 0;
 }
 
 .footer-social {
