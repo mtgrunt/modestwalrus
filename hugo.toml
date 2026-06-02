@@ -4,7 +4,7 @@ title = 'Modest Walrus'
 theme = 'mana'
 
 [params]
-  description = "About, gaming and music"
+  description = "Gaming and music..."
 
 [params.avatar]
   url = '/walrus.png'
