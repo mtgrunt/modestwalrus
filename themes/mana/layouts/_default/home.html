@@ -15,9 +15,9 @@
             {{ end }}
           </h1>
           {{ if site.Params.description }}
-            <p class="hero-subtitle">&gt; {{ site.Params.description }}</p>
+            <p class="hero-subtitle" style="color:#ff6d00;">{{ site.Params.description }}</p>
           {{ else if .Description }}
-            <p class="hero-subtitle">&gt; {{ .Description }}</p>
+            <p class="hero-subtitle" style="color:#ff6d00;">{{ .Description }}</p>
           {{ end }}
           {{ if site.Params.social }}
             <div class="hero-social">
