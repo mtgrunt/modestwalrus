@@ -1,0 +1,4 @@
+baseURL = 'https://modestwalrus.com/'
+languageCode = 'en-us'
+title = 'Modest Walrus'
+theme = 'mana'
