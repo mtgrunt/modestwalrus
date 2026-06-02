@@ -1,12 +1,11 @@
 ---
-title: "Gaming: 7 Days To Die"
+title: "Gaming: Grand Theft Auto 5"
 date: 2026-06-02
-tags: ["game", "7 Days To Die", ]
-description: "Playing 7 Days To Die."
+tags: ["game", "Grand Theft Auto 5", ]
+description: "Playing Grand Theft Auto 5."
 ---
----
-## Survival Game
-7 Days To Die
+## Game
+Grand Theft Auto 5
 
 ## First Look
 Write your initial thoughts on the trailer or gameplay reveal.
@@ -43,4 +42,3 @@ Write about your gameplay session — what happened, highlights, funny moments.
 
 ## Thoughts
 Write your thoughts after playing — tips, impressions, what's next.
-
