@@ -5,7 +5,7 @@ theme = 'mana'
 enableEmoji = true
 
 [params]
-  description = "> Gaming AND Music..."
+  heroSubtitle = "Gaming 🎮 AND Music 🎵"
 
 [params.avatar]
   url = '/walrus.png'
