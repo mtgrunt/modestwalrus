@@ -15,7 +15,7 @@
             {{ end }}
           </h1>
           {{ if site.Params.heroSubtitle }}
-            <p class="hero-subtitle" style="color:#ff6d00;">{{ site.Params.heroSubtitle }}</p>
+            <p class="hero-subtitle" style="color:#ff6d00;">{{ site.Params.heroSubtitle | safeHTML }}</p>
           {{ end }}
           {{ if site.Params.social }}
             <div class="hero-social">
