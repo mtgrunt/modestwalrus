@@ -9,6 +9,9 @@ tags: ["game", "7 Days To Die", ]
 ## First Look
 My first impression wasn't great. The graphics didn't do much to grab my attention right away.
 
+## Trailer
+{{< youtube kikTJaVBank >}}
+
 ## My Reaction
 What won me over was the map size, it's massive. The game ran very smoothly, movement felt fluid and responsive. The performance held up well throughout. My only real complaint was the graphics; it's not the prettiest game out there. Even so, I went ahead and bought 7 Days to Die.
 
