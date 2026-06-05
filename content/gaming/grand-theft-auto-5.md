@@ -1,7 +1,7 @@
 ---
 title: "Gaming: Grand Theft Auto 5"
 date: 2026-06-02
-tags: ["game", "Grand Theft Auto 5", ]
+tags: ["game", "Grand Theft Auto 5", "Los Santos", "Michael", "Trevor", "Franklin", ]
 ---
 ## Game/Publisher/Developer
 Grand Theft Auto 5, Rockstar Games, Rockstar North
