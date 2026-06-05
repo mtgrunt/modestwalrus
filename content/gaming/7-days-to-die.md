@@ -5,7 +5,6 @@ tags: ["game", "7 Days To Die", ]
 description: "Playing 7 Days To Die."
 ---
 # Survival Game
-7 Days To Die
 
 ## First Look
 My first impression wasn't great. The graphics didn't do much to grab my attention right away.
