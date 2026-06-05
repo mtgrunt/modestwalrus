@@ -14,8 +14,14 @@
               <span class="hero-title-line2">{{ site.Params.heroTitleLine2 }}</span>
             {{ end }}
           </h1>
-          {{ if site.Params.heroSubtitle }}
-            <p class="hero-subtitle" style="color:#ff6d00;">{{ site.Params.heroSubtitle }}</p>
+          {{ with site.Params.heroSubtitle }}
+            {{ if reflect.IsSlice . }}
+              {{ range . }}
+                <p class="hero-subtitle" style="color:#ff6d00;">{{ . }}</p>
+              {{ end }}
+            {{ else }}
+              <p class="hero-subtitle" style="color:#ff6d00;">{{ . }}</p>
+            {{ end }}
           {{ end }}
           {{ if site.Params.social }}
             <div class="hero-social">
