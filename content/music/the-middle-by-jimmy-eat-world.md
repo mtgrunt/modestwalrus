@@ -3,13 +3,11 @@ title: "Reaction The Middle by Jimmy Eat World"
 date: 2026-06-05
 tags: ["The Middle", "Jimmy Eat World", ]
 ---
-# Reaction The Middle by Jimmy Eat World
-
 ## Why I Reacted To This Song
 Jimmy Eat World is one of those bands that has been with me for a long time. "The Middle" is one of those songs that hits you at the right moment in life and just sticks. It's a song about not giving up on yourself and that message never gets old.
 
 ## Original by Artist
-{{< youtube ORIGINAL_VIDEO_ID >}}
+{{< youtube rubpIfLPzvU >}}
 
 ## About This Song
 "The Middle" was released in 2001 on Jimmy Eat World's breakout album *Bleed American*. Frontman Jim Adkins wrote it as an encouragement to younger fans who were struggling to fit in. A reminder that the awkwardness and self-doubt of adolescence is temporary. The song reached the top five on the Billboard Hot 100 and became one of the defining alternative rock tracks of the early 2000s. It still resonates just as strongly today.
