@@ -3,7 +3,8 @@ title: "Gaming: 7 Days To Die"
 date: 2026-06-02
 tags: ["game", "7 Days To Die", ]
 ---
-# Survival Game
+## Game/Publisher/Developer
+7 Days To Die, The Fun Pimps/Telltale Publishing, The Fun Pimps
 
 ## First Look
 My first impression wasn't great. The graphics didn't do much to grab my attention right away.
