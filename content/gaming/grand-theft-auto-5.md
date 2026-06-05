@@ -2,7 +2,6 @@
 title: "Gaming: Grand Theft Auto 5"
 date: 2026-06-02
 tags: ["game", "Grand Theft Auto 5", ]
-description: "Playing Grand Theft Auto 5."
 ---
 ## Game
 Grand Theft Auto 5
