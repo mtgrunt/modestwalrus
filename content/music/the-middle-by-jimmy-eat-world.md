@@ -63,4 +63,4 @@ From the first guitar riff, it takes you right back. There's an energy to this s
 "The Middle" is a masterclass in pop-punk songwriting. Jim Adkins' vocal delivery carries real conviction. He's not just singing words, he means it. The chorus is one of the most uplifting in the genre: *everything, everything will be just fine*. It's simple, but it lands every time. The production is clean and punchy without losing the raw energy that makes Jimmy Eat World great. This is a song that holds up completely. Highly recommended, whether you're hearing it for the first time or the hundredth.
 
 ## Rating
-81/100
+79/100
