@@ -1,10 +1,10 @@
 ---
-title: "Gaming: Wacraft II"
+title: "Gaming: Warcraft II"
 date: 2026-06-09
-tags: ["game", "wacraft 2", "peasant", "peon", "footman", "grunt", "elven archer", "troll axethrower", "elven ranger", "troll berserker", "knight", "orge", "paladin", "ogre-mage", "ballista", "catapult", "demolition squad", "goblin sappers", "mage", "death knight", "Gnomish Flying Machine", "Goblin Zeppelin", "gryphon rider", "dragon", "transport", "elven destroyer", "troll destroyer", "battleship", "ogre juggernaught", "gnomish submarine", "giant turtle", "	Blizzard Entertainment", "NA: Davidson & Associates", "EU: Zablac Entertainment", "	Blizzard Entertainment", ]
+tags: ["game", "Warcraft II", "Blizzard Entertainment", "NA: Davidson & Associates", "EU: Zablac Entertainment"]
 ---
 ## Game/Publisher/Developer
-Wacraft II, NA: Davidson & Associates EU: Zablac Entertainment, 	Blizzard Entertainment
+Warcraft II, NA: Davidson & Associates / EU: Zablac Entertainment, Blizzard Entertainment
 
 ## My Reaction
 Warcraft II hooked me immediately. The choice between humans and orcs felt meaningful and the moment you start building your base and training units the game just pulls you in. The strategic depth was unlike anything else at the time. This was an easy buy and one I kept coming back to.
