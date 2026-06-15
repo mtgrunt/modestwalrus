@@ -29,7 +29,7 @@ Whether it's building an empire, surviving a zombie apocalypse or just losing ho
 Music is the other constant. My taste runs wide; punk, metal, hip-hop, classic rock, soul, blues and jazz. If it's good, it's good.
 
 **Rock / Alternative / Punk**
-Green Day · Metallica · Guns N' Roses · Scorpions · Joy Division · Van Halen · Lynyrd Skynyrd · Aerosmith · Led Zeppelin ·Weezer · Foo Fighters · Social Distortion · Stone Temple Pilots · Jimmy Eat World · Tool · Taking Back Sunday · Brand New · Thrice · The Used · The Juliana Theory · Yellowcard · Modest Mouse · Unwritten Law · Default · The Offspring · Hoobastank · Gary Clark Jr. · Bloc Party
+Green Day · Metallica · Guns N' Roses · Scorpions · Joy Division · Van Halen · Lynyrd Skynyrd · Aerosmith · Led Zeppelin · Weezer · Foo Fighters · Social Distortion · Stone Temple Pilots · Jimmy Eat World · Tool · Taking Back Sunday · Brand New · Thrice · The Used · The Juliana Theory · Yellowcard · Modest Mouse · Unwritten Law · Default · The Offspring · Hoobastank · Gary Clark Jr. · Bloc Party
 
 **R&B & Soul**
 Boyz II Men · Michael Jackson · Marvin Gaye · The Brothers Johnson · Stevie Wonder · Al Green · Bill Withers · Curtis Mayfield ·  Joe Cocker  
