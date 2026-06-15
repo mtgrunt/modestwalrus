@@ -37,7 +37,7 @@ Boyz II Men · Michael Jackson · Marvin Gaye · The Brothers Johnson · Stevie 
 **Hip-Hop**
 Eminem · The Notorious B.I.G. · Tupac · Nas · Dr. Dre · Ice Cube · DMX · Missy Elliott · 50 Cent · LL Cool J · Beastie Boys · Jay-Z · Outkast · Snoop Dogg · Kendrick Lamar
 
-**Classic Rock 
+**Classic Rock** 
 Johnny Cash · Paul Simon · Huey Lewis & the News · Tears for Fears · Queen · The Police · Journey · Rush ·Prince · Talking Heads · Cream · David Bowie · Jimi Hendrix · Steve Miller Band 
 
 **Blues**
