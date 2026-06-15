@@ -56,9 +56,6 @@ Everything, everything will be just fine
 Everything, everything will be alright
 ```
 
-## Listen
-{{< youtube YOUR_VIDEO_ID >}}
-
 ## First Impressions
 From the first guitar riff, it takes you right back. There's an energy to this song that's immediate. The chorus hits harder than you remember every single time.
 

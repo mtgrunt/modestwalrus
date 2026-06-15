@@ -40,8 +40,5 @@ Grand Theft Auto V is as close to essential as open-world gaming gets. The world
 ## Session Notes
 Spent the first session just driving around Los Santos taking it all in. Stumbled into a few random events, caused the usual mayhem and got deep into the early story missions. The Franklin and Lamar dynamic is immediately entertaining. Hard to stop playing once you're in.
 
-## Watch
-{{< youtube YOUR_VIDEO_ID >}}
-
 ## Thoughts
 Don't rush the story, take time to explore the map and let Los Santos breathe. The heist missions are the highlights, so go in prepared. If you haven't tried it yet, there's never been a better time to jump in. Grand Theft Auto VI will be out in Fall 2026.
