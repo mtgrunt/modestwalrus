@@ -3,6 +3,7 @@ languageCode = 'en-us'
 title = 'Modest Walrus'
 theme = 'mana'
 enableEmoji = true
+enableRobotsTXT = true
 
 [params]
   heroSubtitle = ["Gaming AND Music", "(1-100 Point System)"]

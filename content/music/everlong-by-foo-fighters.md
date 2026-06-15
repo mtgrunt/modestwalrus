@@ -2,7 +2,9 @@
 title: "Reaction Everlong by Foo Fighters"
 date: 2026-06-09
 description: "A reaction to Everlong by Foo Fighters — Dave Grohl's signature track from The Colour and the Shape. Rated 88/100."
-tags: ["Everlong", "Foo Fighters", ]
+tags: ["alternative rock", "rock", "Foo Fighters", "Everlong", "The Colour and the Shape", "1997", "Dave Grohl", "grunge"]
+rating: 88
+item_name: "Everlong"
 ---
 ## Why I Reacted To This Song
 Foo Fighters have been a constant in my life and "Everlong" is the song that defines them. It's one of those tracks that never loses its grip. The energy, the melody and the emotion. It all comes together perfectly. Hard to ignore a song this good.

@@ -14,6 +14,37 @@
 {{ if and site.Params.avatar site.Params.avatar.home.assetPath }}
   {{ $publisher = merge $publisher (dict "logo" (dict "@type" "ImageObject" "url" (site.Params.avatar.home.assetPath | absURL))) }}
 {{ end }}
+{{ if .Params.rating }}
+{{ $itemType := "Thing" }}
+{{ if eq .Section "gaming" }}{{ $itemType = "VideoGame" }}{{ end }}
+{{ if eq .Section "music" }}{{ $itemType = "MusicRecording" }}{{ end }}
+{{ $itemName := .Params.item_name | default .Title }}
+{{ $review := dict
+  "@context" "https://schema.org"
+  "@type" "Review"
+  "headline" .Title
+  "description" (cond (ne .Description "") .Description (.Summary | plainify | truncate 160))
+  "datePublished" (.Date.Format "2006-01-02T15:04:05Z07:00")
+  "dateModified" (.Lastmod.Format "2006-01-02T15:04:05Z07:00")
+  "mainEntityOfPage" (dict "@type" "WebPage" "@id" .Permalink)
+  "url" .Permalink
+  "inLanguage" .Language.LanguageCode
+  "author" $author
+  "publisher" $publisher
+  "itemReviewed" (dict "@type" $itemType "name" $itemName)
+  "reviewRating" (dict "@type" "Rating" "ratingValue" .Params.rating "bestRating" 100 "worstRating" 1)
+}}
+{{ $resolvedImage := partial "post-image-resolve.html" . }}
+{{ if $resolvedImage.image }}
+  {{ $review = merge $review (dict "image" ($resolvedImage.image | absURL)) }}
+{{ else if and site.Params.avatar site.Params.avatar.home.assetPath }}
+  {{ $review = merge $review (dict "image" (site.Params.avatar.home.assetPath | absURL)) }}
+{{ end }}
+{{ if .Params.tags }}
+  {{ $review = merge $review (dict "keywords" .Params.tags) }}
+{{ end }}
+{{ printf "<script type=\"application/ld+json\">%s</script>" ($review | jsonify) | safeHTML }}
+{{ else }}
 {{ $blogPosting := dict
   "@context" "https://schema.org"
   "@type" "BlogPosting"
@@ -39,6 +70,7 @@
   {{ $blogPosting = merge $blogPosting (dict "keywords" .Params.tags) }}
 {{ end }}
 {{ printf "<script type=\"application/ld+json\">%s</script>" ($blogPosting | jsonify) | safeHTML }}
+{{ end }}
 {{ end }}
 
 {{ if and .IsPage (not .IsHome) }}

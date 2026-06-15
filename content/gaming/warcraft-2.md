@@ -2,7 +2,9 @@
 title: "Gaming: Warcraft II"
 date: 2026-06-09
 description: "A review and reaction to Warcraft II: Tides of Darkness by Blizzard Entertainment. A landmark real-time strategy classic. Rated 88/100."
-tags: ["game", "Warcraft II", "Blizzard Entertainment", "NA: Davidson & Associates", "EU: Zablac Entertainment"]
+tags: ["real-time strategy", "RTS", "Blizzard Entertainment", "Warcraft II", "Tides of Darkness", "PC", "classic games", "strategy games", "1995"]
+rating: 88
+item_name: "Warcraft II: Tides of Darkness"
 ---
 ## Game/Publisher/Developer
 Warcraft II, NA: Davidson & Associates / EU: Zablac Entertainment, Blizzard Entertainment
