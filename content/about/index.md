@@ -4,6 +4,7 @@ description: "About Modest Walrus — a gaming and music site covering everythin
 tags: ["Gaming", "Music", "Doom", "Tetris", "Warcraft II", "NHL '95", "Master of Orion", "Starcraft", "Counter-Strike", "Grand Theft Auto IV", "Red Dead Redemption 2", "Portal 2", "Green Day", "Metallica",  ] 
 layout: "single"
 ---
+# 
 Welcome to Modest Walrus, a website about the things I cherish: games and music.
 
 ## Gaming
