@@ -1,6 +1,7 @@
 ---
 title: "Gaming: 7 Days To Die"
 date: 2026-06-02
+description: "A review and reaction to 7 Days To Die — the open-world zombie survival game by The Fun Pimps. Rated 71/100."
 tags: ["game", "7 Days To Die", ]
 ---
 ## Game/Publisher/Developer

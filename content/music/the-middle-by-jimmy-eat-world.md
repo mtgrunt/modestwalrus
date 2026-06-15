@@ -1,6 +1,7 @@
 ---
 title: "Reaction The Middle by Jimmy Eat World"
 date: 2026-06-05
+description: "A reaction to The Middle by Jimmy Eat World — one of the defining alternative rock songs of the early 2000s. Rated 81/100."
 tags: ["The Middle", "Jimmy Eat World", ]
 ---
 ## Why I Reacted To This Song

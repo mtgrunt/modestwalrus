@@ -6,6 +6,8 @@ enableEmoji = true
 
 [params]
   heroSubtitle = ["Gaming AND Music", "(1-100 Point System)"]
+  description = "Modest Walrus is a gaming and music review site. Games and albums rated on a 1-100 point system."
+  author = "Modest Walrus"
 
 [params.avatar]
   url = '/walrus.png'

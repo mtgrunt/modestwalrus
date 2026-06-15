@@ -1,6 +1,7 @@
 ---
 title: "Gaming: Grand Theft Auto 5"
 date: 2026-06-02
+description: "A review and reaction to Grand Theft Auto V by Rockstar Games. An open-world masterpiece set in Los Santos. Rated 93/100."
 tags: ["game", "Grand Theft Auto 5", "Los Santos", "Michael", "Trevor", "Franklin", ]
 ---
 ## Game/Publisher/Developer
