@@ -18,7 +18,7 @@
   // Language prefixes for URL normalization in page transitions
   window.MANA_LANG_PREFIXES = [{{ range $i, $lang := site.Languages }}{{ if $i }},{{ end }}'{{ $lang.Lang }}'{{ end }}];
 </script>
-<title>{{ if .IsHome }}{{ site.Title }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
+<title>{{ if .IsHome }}{{ site.Title }}{{ with site.Params.tagline }} | {{ . }}{{ end }}{{ else }}{{ .Title }} | {{ site.Title }}{{ end }}</title>
 <meta
   name="description"
   content="{{ if .Description }}

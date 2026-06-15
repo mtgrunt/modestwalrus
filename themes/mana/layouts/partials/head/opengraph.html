@@ -2,7 +2,7 @@
 {{- if .Params.image -}}
   {{- $image = .Params.image | absURL -}}
 {{- else if site.Params.avatar -}}
-  {{- $image = site.Params.avatar.url -}}
+  {{- $image = site.Params.avatar.url | absURL -}}
 {{- end -}}
 
 {{- $title := "" -}}

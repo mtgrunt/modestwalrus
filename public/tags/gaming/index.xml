@@ -1,18 +1,6 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
-  <channel>
-    <title>Gaming on Modest Walrus</title>
-    <link>http://localhost:1313/tags/gaming/</link>
-    <description>Recent content in Gaming on Modest Walrus</description>
-    <generator>Hugo</generator>
-    <language>en-us</language>
-    <atom:link href="http://localhost:1313/tags/gaming/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>About</title>
-      <link>http://localhost:1313/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/about/</guid>
-      <description>&lt;p&gt;Welcome to Modest Walrus, a website about the things I cherish: games and music.&lt;/p&gt;&#xA;&lt;h2 id=&#34;gaming&#34;&gt;Gaming&lt;/h2&gt;&#xA;&lt;p&gt;I&amp;rsquo;ve been playing games for as long as I can remember. From the pixelated chaos of &lt;strong&gt;Doom&lt;/strong&gt; and the endlessly satisfying loop of &lt;strong&gt;Tetris&lt;/strong&gt;. Furthermore, the grand strategy and multiplayer of &lt;strong&gt;Warcraft II&lt;/strong&gt; and the brutal competitiveness of &lt;strong&gt;Counter-Strike&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Some favorites that have stuck with me over the years:&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;Classics &amp;amp; Strategy&lt;/strong&gt;&#xA;Doom · Tetris · NHL 1995 · Master of Orion · Heroes of Might and Magic · Warcraft II · Age of Empires II · Starcraft&lt;/p&gt;</description>
-    </item>
-  </channel>
-</rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Gaming on Modest Walrus</title><link>https://modestwalrus.com/tags/gaming/</link><description>Recent content in Gaming on Modest Walrus</description><generator>Hugo</generator><language>en-us</language><atom:link href="https://modestwalrus.com/tags/gaming/index.xml" rel="self" type="application/rss+xml"/><item><title>About</title><link>https://modestwalrus.com/about/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://modestwalrus.com/about/</guid><description>&lt;p&gt;Welcome to Modest Walrus, a website about the things I cherish: games and music.&lt;/p&gt;
+&lt;h2 id="gaming"&gt;Gaming&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ve been playing games for as long as I can remember. From the pixelated chaos of &lt;strong&gt;Doom&lt;/strong&gt; and the endlessly satisfying loop of &lt;strong&gt;Tetris&lt;/strong&gt;. Furthermore, the grand strategy and multiplayer of &lt;strong&gt;Warcraft II&lt;/strong&gt; and the brutal competitiveness of &lt;strong&gt;Counter-Strike&lt;/strong&gt;.&lt;/p&gt;
+&lt;p&gt;Some favorites that have stuck with me over the years:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Classics &amp;amp; Strategy&lt;/strong&gt;
+Doom · Tetris · NHL 1995 · Master of Orion · Heroes of Might and Magic · Warcraft II · Age of Empires II · Starcraft&lt;/p&gt;</description></item></channel></rss>
