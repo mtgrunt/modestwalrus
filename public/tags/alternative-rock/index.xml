@@ -1,12 +1,26 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Alternative Rock on Modest Walrus</title><link>https://modestwalrus.com/tags/alternative-rock/</link><description>Recent content in Alternative Rock on Modest Walrus</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate><atom:link href="https://modestwalrus.com/tags/alternative-rock/index.xml" rel="self" type="application/rss+xml"/><item><title>Reaction Everlong by Foo Fighters</title><link>https://modestwalrus.com/music/everlong-by-foo-fighters/</link><pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate><guid>https://modestwalrus.com/music/everlong-by-foo-fighters/</guid><description>&lt;h2 id="why-i-reacted-to-this-song"&gt;Why I Reacted To This Song&lt;/h2&gt;
-&lt;p&gt;Foo Fighters have been a constant in my life and &amp;ldquo;Everlong&amp;rdquo; is the song that defines them. It&amp;rsquo;s one of those tracks that never loses its grip. The energy, the melody and the emotion. It all comes together perfectly. Hard to ignore a song this good.&lt;/p&gt;
-&lt;h2 id="about-this-song"&gt;About This Song&lt;/h2&gt;
-&lt;p&gt;&amp;ldquo;Everlong&amp;rdquo; was released in 1997 on Foo Fighters&amp;rsquo; second album &lt;em&gt;The Colour and the Shape&lt;/em&gt;. Dave Grohl wrote it during a period of personal upheaval. It shows the song carries a rawness and urgency that&amp;rsquo;s hard to fake. It became the band&amp;rsquo;s signature track and is widely regarded as one of the dominant alternative rock songs ever recorded. The music video, directed by Michel Gondry.&lt;/p&gt;</description></item><item><title>Reaction The Middle by Jimmy Eat World</title><link>https://modestwalrus.com/music/the-middle-by-jimmy-eat-world/</link><pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate><guid>https://modestwalrus.com/music/the-middle-by-jimmy-eat-world/</guid><description>&lt;h2 id="why-i-reacted-to-this-song"&gt;Why I Reacted To This Song&lt;/h2&gt;
-&lt;p&gt;Jimmy Eat World is one of those bands that has been with me for a long time. &amp;ldquo;The Middle&amp;rdquo; is one of those songs that hits you at the right moment in life and just sticks. It&amp;rsquo;s a song about not giving up on yourself and that message never gets old.&lt;/p&gt;
-&lt;h2 id="original-by-artist"&gt;Original by Artist&lt;/h2&gt;
-&lt;div style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"&gt;
- &lt;iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen" loading="eager" referrerpolicy="strict-origin-when-cross-origin" src="https://www.youtube.com/embed/rubpIfLPzvU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;" title="YouTube video"&gt;&lt;/iframe&gt;
- &lt;/div&gt;
-
-&lt;h2 id="about-this-song"&gt;About This Song&lt;/h2&gt;
-&lt;p&gt;&amp;ldquo;The Middle&amp;rdquo; was released in 2001 on Jimmy Eat World&amp;rsquo;s breakout album &lt;em&gt;Bleed American&lt;/em&gt;. Frontman Jim Adkins wrote it as an encouragement to younger fans who were struggling to fit in. A reminder that the awkwardness and self-doubt of adolescence is temporary. The song reached the top five on the Billboard Hot 100 and became one of the defining alternative rock tracks of the early 2000s. It still resonates just as strongly today.&lt;/p&gt;</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Alternative Rock on Modest Walrus</title>
+    <link>http://localhost:1313/tags/alternative-rock/</link>
+    <description>Recent content in Alternative Rock on Modest Walrus</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 09 Jun 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/alternative-rock/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Reaction Everlong by Foo Fighters</title>
+      <link>http://localhost:1313/music/everlong-by-foo-fighters/</link>
+      <pubDate>Tue, 09 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/music/everlong-by-foo-fighters/</guid>
+      <description>&lt;h2 id=&#34;why-i-reacted-to-this-song&#34;&gt;Why I Reacted To This Song&lt;/h2&gt;&#xA;&lt;p&gt;Foo Fighters have been a constant in my life and &amp;ldquo;Everlong&amp;rdquo; is the song that defines them. It&amp;rsquo;s one of those tracks that never loses its grip. The energy, the melody and the emotion. It all comes together perfectly. Hard to ignore a song this good.&lt;/p&gt;&#xA;&lt;h2 id=&#34;about-this-song&#34;&gt;About This Song&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;Everlong&amp;rdquo; was released in 1997 on Foo Fighters&amp;rsquo; second album &lt;em&gt;The Colour and the Shape&lt;/em&gt;. Dave Grohl wrote it during a period of personal upheaval. It shows the song carries a rawness and urgency that&amp;rsquo;s hard to fake. It became the band&amp;rsquo;s signature track and is widely regarded as one of the dominant alternative rock songs ever recorded. The music video, directed by Michel Gondry.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Reaction The Middle by Jimmy Eat World</title>
+      <link>http://localhost:1313/music/the-middle-by-jimmy-eat-world/</link>
+      <pubDate>Fri, 05 Jun 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/music/the-middle-by-jimmy-eat-world/</guid>
+      <description>&lt;h2 id=&#34;why-i-reacted-to-this-song&#34;&gt;Why I Reacted To This Song&lt;/h2&gt;&#xA;&lt;p&gt;Jimmy Eat World is one of those bands that has been with me for a long time. &amp;ldquo;The Middle&amp;rdquo; is one of those songs that hits you at the right moment in life and just sticks. It&amp;rsquo;s a song about not giving up on yourself and that message never gets old.&lt;/p&gt;&#xA;&lt;h2 id=&#34;original-by-artist&#34;&gt;Original by Artist&lt;/h2&gt;&#xA;&lt;div style=&#34;position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;&#34;&gt;&#xA;      &lt;iframe allow=&#34;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share; fullscreen&#34; loading=&#34;eager&#34; referrerpolicy=&#34;strict-origin-when-cross-origin&#34; src=&#34;https://www.youtube.com/embed/rubpIfLPzvU?autoplay=0&amp;amp;controls=1&amp;amp;end=0&amp;amp;loop=0&amp;amp;mute=0&amp;amp;start=0&#34; style=&#34;position: absolute; top: 0; left: 0; width: 100%; height: 100%; border:0;&#34; title=&#34;YouTube video&#34;&gt;&lt;/iframe&gt;&#xA;    &lt;/div&gt;&#xA;&#xA;&lt;h2 id=&#34;about-this-song&#34;&gt;About This Song&lt;/h2&gt;&#xA;&lt;p&gt;&amp;ldquo;The Middle&amp;rdquo; was released in 2001 on Jimmy Eat World&amp;rsquo;s breakout album &lt;em&gt;Bleed American&lt;/em&gt;. Frontman Jim Adkins wrote it as an encouragement to younger fans who were struggling to fit in. A reminder that the awkwardness and self-doubt of adolescence is temporary. The song reached the top five on the Billboard Hot 100 and became one of the defining alternative rock tracks of the early 2000s. It still resonates just as strongly today.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
