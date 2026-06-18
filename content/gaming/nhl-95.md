@@ -3,7 +3,7 @@ title: "Gaming: NHL 95"
 date: 2026-06-17
 description: "A review and reaction to NHL 95 by EA Sports. A landmark hockey sim played on PC. Rated 82/100."
 tags: ["sports", "hockey", "EA Sports", "NHL 95", "Sega Genesis", "SNES", "1994", "PC", "sports simulation"]
-rating: 85
+rating: 82
 item_name: "NHL 95"
 ---
 ## Game/Publisher/Developer
