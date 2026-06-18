@@ -33,4 +33,4 @@ NHL 95 (also known as NHL Hockey 95) is an ice hockey video game published by EA
 NHL 95 earned its reputation as one of the best sports games of its generation. The speed, the depth of the roster management and the sheer fun of playing it with a friend made it a constant in my rotation. A genuine classic of 90s sports gaming.
 
 ## Rating
-85/100
+82/100
