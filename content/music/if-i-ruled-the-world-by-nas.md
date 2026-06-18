@@ -1,6 +1,6 @@
 ---
 title: "Reaction If I Ruled the World by Nas ft. Lauryn Hill"
-date: 2026-06-15
+date: 2026-06-17
 description: "A reaction to If I Ruled the World by Nas ft. Lauryn Hill — a defining 90s hip-hop anthem from It Was Written. Rated 83/100."
 tags: ["hip-hop", "rap", "Nas", "Lauryn Hill", "If I Ruled the World", "1996", "It Was Written", "90s hip-hop"]
 rating: 83
