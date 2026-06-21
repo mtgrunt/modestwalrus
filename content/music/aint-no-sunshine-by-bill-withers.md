@@ -1,7 +1,7 @@
 ---
 title: "Reaction Ain't No Sunshine by Bill Withers"
 date: 2026-06-20
-description: "A reaction to Ain't No Sunshine by Bill Withers — a soul classic from Just As I Am. Rated 92/100."
+description: "A reaction to Ain't No Sunshine by Bill Withers, a soul classic from Just As I Am. Rated 92/100."
 tags: ["soul", "Bill Withers", "Ain't No Sunshine", "1971", "Just As I Am", "R&B", "classic soul"]
 rating: 92
 item_name: "Ain't No Sunshine"
