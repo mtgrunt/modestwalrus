@@ -1,6 +1,6 @@
 ---
 title: "Reaction Stormy Monday by B.B. King"
-date: 2026-06-20
+date: 2026-06-22
 description: "A reaction to Stormy Monday performed live by B.B. King — one of the all-time blues greats. Rated 88/100."
 tags: ["blues", "B.B. King", "Stormy Monday", "T-Bone Walker", "blues standard", "live performance", "guitar blues"]
 rating: 88
