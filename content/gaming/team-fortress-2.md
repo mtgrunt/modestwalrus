@@ -1,6 +1,6 @@
 ---
 title: "Gaming: Team Fortress 2"
-date: 2026-06-22
+date: 2026-06-23
 description: "A review and reaction to Team Fortress 2 by Valve. A class-based shooter classic that defined an era on PC. Rated 82/100."
 tags: ["first-person shooter", "FPS", "class-based shooter", "Valve", "Team Fortress 2", "TF2", "2007", "PC", "multiplayer"]
 rating: 82
