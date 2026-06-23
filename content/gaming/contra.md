@@ -1,9 +1,9 @@
 ---
 title: "Gaming: Contra"
 date: 2026-06-22
-description: "A review and reaction to Contra by Konami on Nintendo. A legendary run-and-gun classic. Rated 89/100."
+description: "A review and reaction to Contra by Konami on Nintendo. A legendary run-and-gun classic. Rated 80/100."
 tags: ["run and gun", "action", "Konami", "Contra", "NES", "Nintendo", "1988", "co-op", "arcade", "retro gaming"]
-rating: 89
+rating: 80
 item_name: "Contra"
 ---
 ## Game/Publisher/Developer
@@ -32,4 +32,4 @@ Contra is a run-and-gun action game originally released in arcades by Konami in 
 Contra is a foundational run-and-gun title that still holds up as one of the best action games on the NES. Demanding, relentless and a genuine blast in co-op, it earned its place as a classic.
 
 ## Rating
-89/100
+80/100
