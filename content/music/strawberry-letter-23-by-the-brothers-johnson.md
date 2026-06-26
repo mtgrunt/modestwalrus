@@ -1,7 +1,7 @@
 ---
 title: "Reaction Strawberry Letter 23 by The Brothers Johnson"
 date: 2026-06-25
-description: "A reaction to Strawberry Letter 23 by The Brothers Johnson — a funk classic with one of the all-time great basslines. Rated 86/100."
+description: "A reaction to Strawberry Letter 23 by The Brothers Johnson, a funk classic with one of the all-time great basslines. Rated 86/100."
 tags: ["funk", "soul", "The Brothers Johnson", "Strawberry Letter 23", "1977", "Right on Time", "Quincy Jones", "bass"]
 rating: 86
 item_name: "Strawberry Letter 23"
