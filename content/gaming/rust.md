@@ -25,7 +25,6 @@ Rust drops you into a harsh, open-world survival sandbox where the only guarante
 - Base building and raiding add real strategic depth beyond just gunfights.
 
 ## What I Didn't Like
-- The brutal difficulty curve and constant risk of losing everything can be exhausting solo.
 - Server wipes mean progress is never permanent, which won't appeal to everyone.
 
 ## Verdict
