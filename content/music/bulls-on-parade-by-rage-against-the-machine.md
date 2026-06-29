@@ -1,7 +1,7 @@
 ---
 title: "Reaction Bulls On Parade by Rage Against The Machine"
 date: 2026-06-29
-description: "A reaction to Bulls on Parade by Rage Against the Machine — a furious protest anthem from Evil Empire, famous for Tom Morello's vinyl-scratch guitar solo. Rated 86/100."
+description: "A reaction to Bulls on Parade by Rage Against the Machine, a furious protest anthem from Evil Empire, famous for Tom Morello's vinyl-scratch guitar solo. Rated 86/100."
 tags: ["rap rock", "rock", "Rage Against The Machine", "Bulls on Parade", "Evil Empire", "1996", "protest music", "Tom Morello", "guitar solo"]
 rating: 86
 item_name: "Bulls On Parade"
