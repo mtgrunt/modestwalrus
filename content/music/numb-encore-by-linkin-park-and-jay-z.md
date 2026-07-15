@@ -1,9 +1,9 @@
 ---
 title: "Reaction Numb/Encore by Linkin Park & JAY-Z"
 date: 2026-07-15
-description: "A reaction to Numb/Encore, the genre-bridging Linkin Park and JAY-Z collaboration from Collision Course. Rated 88/100."
+description: "A reaction to Numb/Encore, the genre-bridging Linkin Park and JAY-Z collaboration from Collision Course. Rated 85/100."
 tags: ["rap rock", "mashup", "Linkin Park", "JAY-Z", "Numb/Encore", "Collision Course", "2004", "genre collaboration", "live performance"]
-rating: 88
+rating: 85
 item_name: "Numb/Encore"
 ---
 ## Why I Reacted To This Song
@@ -22,4 +22,4 @@ The way "Numb" and "Encore" lock together feels almost inevitable once you hear 
 Even nearly two decades on, this one still holds up as a meaningful piece of music history. Its success opened the door for other cross-genre collaborations and showed that music really could bring very different audiences together. With genre lines blurring more every year, this pairing still stands as a reminder of what innovation and a willingness to take unexpected paths can produce.
 
 ## Rating
-88/100
+85/100
