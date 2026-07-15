@@ -106,12 +106,8 @@
 }
 
 .menu-link[href="/gaming/"],
-.menu-link[href="/music/"],
-.menu-link[href="/gaming/"]:hover,
-.menu-link[href="/music/"]:hover,
-.menu-link[href="/gaming/"].active,
-.menu-link[href="/music/"].active {
-  color: #ff6d00;
+.menu-link[href="/music/"] {
+  color: var(--accent-light-purple);
 }
 
 .search-toggle {
@@ -365,12 +361,8 @@
 }
 
 .mobile-menu-nav .menu-link[href="/gaming/"],
-.mobile-menu-nav .menu-link[href="/music/"],
-.mobile-menu-nav .menu-link[href="/gaming/"]:hover,
-.mobile-menu-nav .menu-link[href="/music/"]:hover,
-.mobile-menu-nav .menu-link[href="/gaming/"].active,
-.mobile-menu-nav .menu-link[href="/music/"].active {
-  color: #ff6d00;
+.mobile-menu-nav .menu-link[href="/music/"] {
+  color: var(--accent-light-purple);
 }
 
 .mobile-menu-footer {
