@@ -105,6 +105,8 @@
   background-color: var(--bg-secondary);
 }
 
+.menu-link[href="/gaming/"],
+.menu-link[href="/music/"],
 .menu-link[href="/gaming/"]:hover,
 .menu-link[href="/music/"]:hover,
 .menu-link[href="/gaming/"].active,
@@ -362,6 +364,8 @@
   color: var(--accent-light-purple);
 }
 
+.mobile-menu-nav .menu-link[href="/gaming/"],
+.mobile-menu-nav .menu-link[href="/music/"],
 .mobile-menu-nav .menu-link[href="/gaming/"]:hover,
 .mobile-menu-nav .menu-link[href="/music/"]:hover,
 .mobile-menu-nav .menu-link[href="/gaming/"].active,

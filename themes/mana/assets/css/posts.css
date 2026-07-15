@@ -82,6 +82,16 @@
   text-decoration-color: var(--accent-primary);
 }
 
+.post-title a[href^="/gaming/"],
+.post-title a[href^="/music/"] {
+  color: #ff6d00;
+}
+
+.post-card:hover .post-title a[href^="/gaming/"],
+.post-card:hover .post-title a[href^="/music/"] {
+  text-decoration-color: #ff6d00;
+}
+
 .post-description {
   color: var(--text-secondary);
   margin: 0;
