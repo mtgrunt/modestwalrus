@@ -105,11 +105,6 @@
   background-color: var(--bg-secondary);
 }
 
-.menu-link[href="/gaming/"],
-.menu-link[href="/music/"] {
-  color: var(--accent-light-purple);
-}
-
 .search-toggle {
   background: none;
   border: none;
@@ -357,11 +352,6 @@
 
 .mobile-menu-nav .menu-link.active {
   background-color: var(--bg-secondary);
-  color: var(--accent-light-purple);
-}
-
-.mobile-menu-nav .menu-link[href="/gaming/"],
-.mobile-menu-nav .menu-link[href="/music/"] {
   color: var(--accent-light-purple);
 }
 

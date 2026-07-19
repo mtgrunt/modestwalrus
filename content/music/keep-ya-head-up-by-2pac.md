@@ -2,7 +2,7 @@
 title: "Reaction Keep Ya Head Up by 2Pac"
 date: 2026-07-16
 description: "A reaction to Keep Ya Head Up by 2Pac, a compassionate, socially conscious single dedicated to Latasha Harlins. Rated 84/100."
-tags: ["hip hop", "rap", "2Pac", "Keep Ya Head Up", "Strictly 4 My N.I.G.G.A.Z...", "1993", "socially conscious", "Latasha Harlins"]
+tags: ["hip hop", "rap", "2Pac", "Keep Ya Head Up", "Strictly 4 My N.I.G.G.A.Z", "1993", "socially conscious", "Latasha Harlins"]
 rating: 84
 item_name: "Keep Ya Head Up"
 ---
