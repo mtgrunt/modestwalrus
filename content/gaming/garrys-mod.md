@@ -1,6 +1,6 @@
 ---
 title: "Gaming: Garry's Mod"
-date: 2026-07-19
+date: 2026-07-23
 description: "A review and reaction to Garry's Mod by Facepunch Studios. A boundless sandbox that spawned some of gaming's most influential community game modes. Rated 82/100."
 tags: ["sandbox", "Facepunch Studios", "Valve", "Garry's Mod", "Source engine", "Windows", "2006", "multiplayer", "Garry Newman"]
 rating: 82

@@ -1,6 +1,6 @@
 ---
 title: "Reaction Let's Dance by David Bowie"
-date: 2026-07-19
+date: 2026-07-23
 description: "A reaction to Let's Dance by David Bowie, the polished pop turn that became his biggest commercial hit. Rated 84/100."
 tags: ["pop", "rock", "David Bowie", "Let's Dance", "Nile Rodgers", "1983", "dance rock", "Stevie Ray Vaughan"]
 rating: 84
