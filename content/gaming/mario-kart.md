@@ -1,6 +1,6 @@
 ---
 title: "Gaming: Mario Kart"
-date: 2026-07-23
+date: 2026-07-25
 description: "A review and reaction to Mario Kart by Nintendo. An ambitious open-world reinvention of the series that stumbles occasionally but rarely loses its footing. Rated 84/100."
 tags: ["racing", "Nintendo", "Mario Kart", "open world", "Nintendo Switch 2", "party game", "kart racer"]
 rating: 84
