@@ -1,6 +1,6 @@
 ---
 title: "Reaction Don't Dream It's Over by Crowded House"
-date: 2026-07-25
+date: 2026-08-06
 description: "A reaction to Don't Dream It's Over by Crowded House, a quiet anthem of comfort rather than a cure. Rated 82/100."
 tags: ["pop rock", "Crowded House", "Don't Dream It's Over", "Neil Finn", "1986", "New Zealand", "anthem"]
 rating: 82
