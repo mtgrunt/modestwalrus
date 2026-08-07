@@ -1,9 +1,9 @@
 ---
 title: "Reaction A Decade Under the Influence by Taking Back Sunday"
 date: 2026-08-04
-description: "A reaction to A Decade Under the Influence by Taking Back Sunday, a highlight of the band's Fred Mascherino era. Rated 84/100."
+description: "A reaction to A Decade Under the Influence by Taking Back Sunday, a highlight of the band's Fred Mascherino era. Rated 83/100."
 tags: ["emo", "post-hardcore", "Taking Back Sunday", "A Decade Under the Influence", "Where You Want to Be", "2004", "Fred Mascherino", "Adam Lazzara"]
-rating: 84
+rating: 83
 item_name: "A Decade Under the Influence"
 ---
 ## Why I Reacted To This Song
@@ -22,4 +22,4 @@ The back-and-forth vocals grab you immediately; it feels less like a duet and mo
 The push and pull between the two voices captures how messy relationships actually get in a way a single vocalist never could. Then there's the ending, Fred screaming "I got it back," which lands like a genuine release after everything that came before it. It's the kind of catharsis that only works because the song earned it.
 
 ## Rating
-84/100
+83/100
