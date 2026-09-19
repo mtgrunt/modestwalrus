@@ -7,7 +7,7 @@ rating: 81
 item_name: "Can I Kick It?"
 ---
 ## Why I Reacted To This Song
-Beauty. Flow. Poetry. Craft. Intellect. This song has all of it, and it makes it sound effortless.
+Beauty. Soul. Flow. Poetry. Craft. Intellect. This song has all of it and it makes it sound effortless.
 
 ## Original by Artist
 {{< youtube O3pyCGnZzYA >}}
