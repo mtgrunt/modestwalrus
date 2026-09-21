@@ -1,9 +1,9 @@
 ---
 title: "Reaction Rap God by Eminem"
 date: 2026-09-17
-description: "A reaction to Rap God by Eminem — a quintessential display of technical rapping from The Marshall Mathers LP 2. Rated 86/100."
+description: "A reaction to Rap God by Eminem — a quintessential display of technical rapping from The Marshall Mathers LP 2. Rated 90/100."
 tags: ["hip-hop", "rap", "Eminem", "Rap God", "The Marshall Mathers LP 2", "2013", "technical rap"]
-rating: 86
+rating: 90
 item_name: "Rap God"
 ---
 ## Why I Reacted To This Song
@@ -22,4 +22,4 @@ The track builds slowly, almost teasing, before Eminem just opens the throttle. 
 What separates "Rap God" from a lot of technical rap is that Eminem isn't just rhyming words. He's rhyming entire sentences, stacking clause after clause so the rhyme scheme holds even as the thought keeps moving. The 4:26 to 4:42 stretch is the peak of it: the pace is so fast it barely sounds human, like he's skipping oxygen entirely just to keep the syllables coming. It's a genuinely staggering display of control. It holds up as one of the most purely technical rap performances ever put to record.
 
 ## Rating
-86/100
+90/100
