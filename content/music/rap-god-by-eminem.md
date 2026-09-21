@@ -13,7 +13,7 @@ This is quintessential, epic. It's the song people point to when they want to pr
 {{< youtube XbGs_qK2PQA >}}
 
 ## About This Song
-"Rap God" was released in 2013 on Eminem's album *The Marshall Mathers LP 2*. Produced by Dr. Dre, DVLP, and others, it became known almost instantly for its technical demands, most notably a stretch where Eminem delivers over 100 syllables in around 15 seconds. It's since become a reference point for lyrical density and breath control in rap.
+"Rap God" was released in 2013 on Eminem's album *The Marshall Mathers LP 2*. Produced by Dr. Dre, DVLP and others, it became known almost instantly for its technical demands, most notably a stretch where Eminem delivers over 100 syllables in around 15 seconds. It's since become a reference point for lyrical density and breath control in rap.
 
 ## First Impressions
 The track builds slowly, almost teasing, before Eminem just opens the throttle. It doesn't feel like a gimmick; it feels like he's been holding this back the whole time.
