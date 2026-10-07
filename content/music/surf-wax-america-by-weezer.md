@@ -1,7 +1,7 @@
 ---
 title: "Reaction Surf Wax America by Weezer"
 date: 2026-10-05
-description: "A reaction to Surf Wax America by Weezer — an upbeat, carefree track from the 1994 Blue Album. Rated 82/100."
+description: "A reaction to Surf Wax America by Weezer: an upbeat, carefree track from the 1994 Blue Album. Rated 82/100."
 tags: ["alternative rock", "power pop", "Weezer", "Surf Wax America", "Weezer (Blue Album)", "1994", "90s"]
 rating: 82
 item_name: "Surf Wax America"

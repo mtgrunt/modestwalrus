@@ -1,7 +1,7 @@
 ---
 title: "Reaction The Light by Common"
 date: 2026-06-24
-description: "A reaction to The Light by Common — a soulful hip-hop love song from Like Water for Chocolate. Rated 83/100."
+description: "A reaction to The Light by Common: a soulful hip-hop love song from Like Water for Chocolate. Rated 83/100."
 tags: ["hip-hop", "neo-soul", "Common", "The Light", "Like Water for Chocolate", "2000", "conscious rap"]
 rating: 83
 item_name: "The Light"

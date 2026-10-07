@@ -1,7 +1,7 @@
 ---
 title: "Reaction Everlong by Foo Fighters"
 date: 2026-06-09
-description: "A reaction to Everlong by Foo Fighters — Dave Grohl's signature track from The Colour and the Shape. Rated 88/100."
+description: "A reaction to Everlong by Foo Fighters: Dave Grohl's signature track from The Colour and the Shape. Rated 88/100."
 tags: ["alternative rock", "rock", "Foo Fighters", "Everlong", "The Colour and the Shape", "1997", "Dave Grohl", "grunge"]
 rating: 88
 item_name: "Everlong"

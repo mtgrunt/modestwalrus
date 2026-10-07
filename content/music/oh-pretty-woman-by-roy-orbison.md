@@ -1,7 +1,7 @@
 ---
 title: "Oh, Pretty Woman by Roy Orbison"
 date: 2026-10-07
-description: "A reaction to Oh, Pretty Woman by Roy Orbison — the 1964 rock and roll classic inspired by his wife Claudette. Rated 85/100."
+description: "A reaction to Oh, Pretty Woman by Roy Orbison: the 1964 rock and roll classic inspired by his wife Claudette. Rated 85/100."
 tags: ["rock and roll", "pop", "Roy Orbison", "Oh, Pretty Woman", "1964", "60s"]
 rating: 85
 item_name: "Oh, Pretty Woman"

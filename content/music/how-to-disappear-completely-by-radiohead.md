@@ -1,7 +1,7 @@
 ---
 title: "Reaction How to Disappear Completely by Radiohead"
 date: 2026-06-27
-description: "A reaction to How to Disappear Completely by Radiohead — a haunting, string-laden highlight from Kid A. Rated 82/100."
+description: "A reaction to How to Disappear Completely by Radiohead: a haunting, string-laden highlight from Kid A. Rated 82/100."
 tags: ["alternative rock", "Radiohead", "How to Disappear Completely", "Kid A", "2000", "art rock", "strings"]
 rating: 82
 item_name: "How to Disappear Completely"

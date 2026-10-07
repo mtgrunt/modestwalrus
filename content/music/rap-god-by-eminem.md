@@ -1,7 +1,7 @@
 ---
 title: "Reaction Rap God by Eminem"
 date: 2026-09-17
-description: "A reaction to Rap God by Eminem — a quintessential display of technical rapping from The Marshall Mathers LP 2. Rated 92/100."
+description: "A reaction to Rap God by Eminem: a quintessential display of technical rapping from The Marshall Mathers LP 2. Rated 92/100."
 tags: ["hip-hop", "rap", "Eminem", "Rap God", "The Marshall Mathers LP 2", "2013", "technical rap"]
 rating: 92
 item_name: "Rap God"

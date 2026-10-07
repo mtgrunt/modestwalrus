@@ -13,10 +13,10 @@ This live performance from Palais Omnisports de Paris-Bercy, Paris, France in 19
 {{< youtube 8MuhFxaT7zo >}}
 
 **Lineup:**
-- Dolores O'Riordan – Vocals, Guitar
-- Noel Hogan – Guitar
-- Mike Hogan – Bass Guitar
-- Fergal Lawler – Drums
+- Dolores O'Riordan: Vocals, Guitar
+- Noel Hogan: Guitar
+- Mike Hogan: Bass Guitar
+- Fergal Lawler: Drums
 
 ## About This Song
 "Zombie" was released in 1994 on The Cranberries' second album, *No Need to Argue*. Written by Dolores O'Riordan in response to the 1993 Warrington bombing during the Troubles. It's a protest song about violence and loss rather than a typical single for the band and it became their biggest international hit.

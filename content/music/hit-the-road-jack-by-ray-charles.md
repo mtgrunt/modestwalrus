@@ -1,7 +1,7 @@
 ---
 title: "Hit The Road Jack by Ray Charles"
 date: 2026-10-06
-description: "A reaction to Hit The Road Jack by Ray Charles — the 1961 Grammy-winning R&B classic that topped the Billboard Hot 100. Rated 87/100."
+description: "A reaction to Hit The Road Jack by Ray Charles: the 1961 Grammy-winning R&B classic that topped the Billboard Hot 100. Rated 87/100."
 tags: ["R&B", "soul", "Ray Charles", "Hit The Road Jack", "1961", "60s", "Grammy"]
 rating: 87
 item_name: "Hit The Road Jack"

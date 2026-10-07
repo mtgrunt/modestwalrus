@@ -1,7 +1,7 @@
 ---
 title: "Reaction 'Round Midnight by Thelonious Monk"
 date: 2026-06-15
-description: "A reaction to 'Round Midnight by Thelonious Monk — one of the most recorded jazz standards ever written. Rated 82/100."
+description: "A reaction to 'Round Midnight by Thelonious Monk: one of the most recorded jazz standards ever written. Rated 82/100."
 tags: ["jazz", "bebop", "jazz piano", "Thelonious Monk", "'Round Midnight", "jazz standard", "1940s", "classic jazz"]
 rating: 82
 item_name: "'Round Midnight"

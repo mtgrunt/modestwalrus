@@ -1,7 +1,7 @@
 ---
 title: "Reaction Wake Me Up When September Ends by Green Day"
 date: 2026-06-23
-description: "A reaction to Wake Me Up When September Ends by Green Day — a deeply personal track from American Idiot. Rated 83/100."
+description: "A reaction to Wake Me Up When September Ends by Green Day: a deeply personal track from American Idiot. Rated 83/100."
 tags: ["rock", "punk rock", "Green Day", "Wake Me Up When September Ends", "American Idiot", "2004", "alternative rock"]
 rating: 83
 item_name: "Wake Me Up When September Ends"

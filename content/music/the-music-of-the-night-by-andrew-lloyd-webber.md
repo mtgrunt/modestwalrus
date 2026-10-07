@@ -1,7 +1,7 @@
 ---
 title: "Reaction The Music of the Night by Andrew Lloyd Webber"
 date: 2026-09-23
-description: "A reaction to The Music of the Night by Andrew Lloyd Webber — the centerpiece ballad from The Phantom of the Opera. Rated 84/100."
+description: "A reaction to The Music of the Night by Andrew Lloyd Webber: the centerpiece ballad from The Phantom of the Opera. Rated 84/100."
 tags: ["musical theatre", "Andrew Lloyd Webber", "The Phantom of the Opera", "The Music of the Night", "1986", "Michael Crawford", "Sarah Brightman"]
 rating: 84
 item_name: "The Music of the Night"
