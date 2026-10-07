@@ -13,7 +13,7 @@ It's a classic that topped the charts, won a Grammy and still holds up more than
 {{< youtube uSiHqxgE2d0 >}}
 
 ## About This Song
-Ray Charles released "Hit The Road Jack" in August 1961. It spent two weeks at number one on the Billboard Hot 100 and five weeks at the top of the R&B Sides chart. Making it Ray's sixth number one there. Also, won the Grammy for Best R&B Recording and has a place on Rolling Stone's list of "The 500 Greatest Songs of All Time."
+Ray Charles released "Hit The Road Jack" in August 1961. It spent two weeks at number one on the Billboard Hot 100 and five weeks at the top of the R&B Sides chart, making it Ray's sixth number one there. It also won the Grammy for Best R&B Recording and has a place on Rolling Stone's list of "The 500 Greatest Songs of All Time."
 
 ## First Impressions
 The call-and-response hooks you right away, with Ray pleading his case while the backing singers keep telling him to go.
