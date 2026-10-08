@@ -13,7 +13,7 @@ It's one of Led Zeppelin's most ambitious songs and a hidden gem on Physical Gra
 {{< youtube kr51USR6qyQ >}}
 
 ## About This Song
-"In the Light" appears on Physical Graffiti, Led Zeppelin's 1975 double album. Written by Jimmy Page, Robert Plant and John Paul Jones: it opens with a droning synthesizer intro from Jones before building into one of the band's most layered arrangements.
+"In the Light" appears on Physical Graffiti, Led Zeppelin's 1975 double album. Written by Jimmy Page, Robert Plant and John Paul Jones, it opens with a droning synthesizer intro from Jones before building into one of the band's most layered arrangements.
 
 ## First Impressions
 The eerie opening drone sets a mysterious mood before the song breaks into something bright and uplifting.

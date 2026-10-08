@@ -5,6 +5,7 @@ description: "A review and reaction to Tony Hawk's Pro Skater 1+2 by Activision 
 tags: ["sports", "skateboarding", "arcade", "Activision", "Vicarious Visions", "Tony Hawk's Pro Skater", "Tony Hawk's Pro Skater 1+2", "1999", "2000", "2020", "PC", "PlayStation", "Xbox", "Nintendo Switch"]
 rating: 79
 item_name: "Tony Hawk's Pro Skater 1+2"
+aliases: ["/gaming/tony-hawks-pro-skate-1+2/"]
 ---
 ## Game/Publisher/Developer
 Tony Hawk's Pro Skater 1+2, Activision, Vicarious Visions. Released 4 September, 2020.
