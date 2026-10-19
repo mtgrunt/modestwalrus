@@ -1,0 +1,3 @@
+# Overrides for themes/mana/i18n/en.toml
+# Page numbers are integers, so use %d (the theme's %s renders "%!s(int=1)").
+pageOf = "Page %d of %d"
