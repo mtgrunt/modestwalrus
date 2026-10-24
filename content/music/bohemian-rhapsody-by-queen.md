@@ -1,9 +1,9 @@
 ---
 title: "Bohemian Rhapsody by Queen"
 date: 2026-10-24
-description: "A reaction to Bohemian Rhapsody by Queen: Freddie Mercury's genre-defying epic from the 1975 album A Night at the Opera. Rated 88/100."
+description: "A reaction to Bohemian Rhapsody by Queen: Freddie Mercury's genre-defying epic from the 1975 album A Night at the Opera. Rated 90/100."
 tags: ["rock", "progressive rock", "classic rock", "Queen", "Freddie Mercury", "Bohemian Rhapsody", "A Night at the Opera", "Roy Thomas Baker", "1975", "70s"]
-rating: 88
+rating: 90
 item_name: "Bohemian Rhapsody"
 ---
 ## Why I Reacted To This Song
@@ -22,4 +22,4 @@ The a cappella opening pulls you in right away and from there the song never sto
 "Bohemian Rhapsody" shouldn't work on paper. Ballad, opera and hard rock all in one song sounds like too much, yet Queen pulls it off with total confidence. Freddie's voice, Brian May's guitar and those layered harmonies make it one of the greatest songs ever recorded.
 
 ## Rating
-88/100
+90/100
