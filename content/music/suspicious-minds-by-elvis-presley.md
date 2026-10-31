@@ -1,9 +1,9 @@
 ---
 title: "Suspicious Minds by Elvis Presley"
 date: 2026-10-31
-description: "A reaction to Suspicious Minds by Elvis Presley: the King of Rock and Roll's soaring 1969 comeback hit. Rated 84/100."
+description: "A reaction to Suspicious Minds by Elvis Presley: the King of Rock and Roll's soaring 1969 comeback hit. Rated 85/100."
 tags: ["rock and roll", "pop", "soul", "Elvis Presley", "Suspicious Minds", "Mark James", "Chips Moman", "American Sound Studio", "1969", "60s"]
-rating: 84
+rating: 85
 item_name: "Suspicious Minds"
 ---
 ## Why I Reacted To This Song
@@ -24,4 +24,4 @@ The tension builds from the very first line and Elvis sounds completely locked i
 "Suspicious Minds" shows Elvis at his most passionate. The song is about a relationship falling apart and he sings it with real heartbreak and urgency. The fake fade-out near the end that comes roaring back is one of the best moments in any of his songs.
 
 ## Rating
-84/100
+85/100
