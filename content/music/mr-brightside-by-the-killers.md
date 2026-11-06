@@ -1,9 +1,9 @@
 ---
 title: "Mr. Brightside by The Killers"
 date: 2026-11-05
-description: "A reaction to Mr. Brightside by The Killers: the jealousy-fueled anthem from the 2004 debut album Hot Fuss. Rated 85/100."
+description: "A reaction to Mr. Brightside by The Killers: the jealousy-fueled anthem from the 2004 debut album Hot Fuss. Rated 84/100."
 tags: ["alternative rock", "indie rock", "rock", "The Killers", "Brandon Flowers", "Dave Keuning", "Mr. Brightside", "Hot Fuss", "2004", "2000s music"]
-rating: 85
+rating: 84
 item_name: "Mr. Brightside"
 ---
 ## Why I Reacted To This Song
@@ -22,4 +22,4 @@ That racing guitar riff kicks in and the song takes off at full speed.
 "Mr. Brightside" never slows down. Brandon Flowers sings every line with nervous, desperate energy and the chorus is impossible not to shout along to. Years later it still gets everyone singing the second it comes on.
 
 ## Rating
-85/100
+84/100
