@@ -7,7 +7,7 @@ rating: 85
 item_name: "Sea of Thieves"
 ---
 ## Game/Publisher/Developer
-Sea of Thieves, Xbox Game Studios, PC, Rare. Released 20 March, 2018.
+Sea of Thieves, Xbox Game Studios, Rare. Released 20 March, 2018. 
 
 ## The Trailer
 {{< youtube r5JIBaasuE8 >}}
