@@ -1,9 +1,9 @@
 ---
 title: "Comfortably Numb by Pink Floyd"
 date: 2026-11-14
-description: "A reaction to Comfortably Numb by Pink Floyd: the haunting centerpiece of the 1979 album The Wall, home to one of rock's greatest guitar solos. Rated 86/100."
+description: "A reaction to Comfortably Numb by Pink Floyd: the haunting centerpiece of the 1979 album The Wall, home to one of rock's greatest guitar solos. Rated 88/100."
 tags: ["progressive rock", "rock", "classic rock", "Pink Floyd", "David Gilmour", "Roger Waters", "Comfortably Numb", "The Wall", "Bob Ezrin", "guitar solo", "1979", "70s"]
-rating: 86
+rating: 88
 item_name: "Comfortably Numb"
 ---
 ## Why I Reacted To This Song
@@ -22,4 +22,4 @@ It starts slow and dreamlike, then builds toward something huge.
 "Comfortably Numb" is Pink Floyd at their most powerful. The contrast between Waters' cold, detached verses and Gilmour's warm chorus is striking. Then the final solo arrives and every note feels like it means something. It's the kind of solo you never get tired of hearing.
 
 ## Rating
-86/100
+88/100
