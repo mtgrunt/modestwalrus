@@ -1,9 +1,9 @@
 ---
 title: "Gaming: Grand Theft Auto IV"
 date: 2026-09-17
-description: "A review and reaction to Grand Theft Auto IV by Rockstar Games. Niko Bellic's darker, grittier take on Liberty City. Rated 83/100."
+description: "A review and reaction to Grand Theft Auto IV by Rockstar Games. Niko Bellic's darker, grittier take on Liberty City. Rated 86/100."
 tags: ["open world", "action-adventure", "Rockstar Games", "Rockstar North", "Grand Theft Auto IV", "2008", "PC", "PlayStation", "Xbox", "Liberty City"]
-rating: 83
+rating: 86
 item_name: "Grand Theft Auto IV"
 ---
 ## Game/Publisher/Developer
@@ -30,4 +30,4 @@ Grand Theft Auto IV follows Niko Bellic, an Eastern European immigrant with a da
 Grand Theft Auto IV is a genuinely fun ride through one of the series' best-realized cities, even if the mission variety doesn't always match the ambition of the world around it.
 
 ## Rating
-83/100
+86/100
